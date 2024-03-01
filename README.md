@@ -1,4 +1,4 @@
-mi rpimera prueba
+mi primera prueba
 
 segunda prueba
 
